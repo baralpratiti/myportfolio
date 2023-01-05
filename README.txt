@@ -5,7 +5,7 @@ image (with a new parallax implementation) and scroll effects (powered by
 Scrollex)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-that you can use for pretty much whatever.
+that you can use for pretty much anything.
 
 Credits:
 
